@@ -64,19 +64,6 @@ _All plots are available in the notebook._
 
 ---
 
-## 📁 Project Structure
-
-```
-NYC-Airbnb-Data-Cleaning-and-EDA/
-│
-├── NYC_Airbnb_Data_Cleaning_and_EDA.ipynb
-├── AB_NYC_2019.csv (optional)
-├── README.md
-└── visuals/ (optional folder for saved plots)
-```
-
----
-
 ## 📌 Key Insights
 
 - Most listings are **Entire home/apt**, followed by **Private rooms**
@@ -84,14 +71,9 @@ NYC-Airbnb-Data-Cleaning-and-EDA/
 - Price mostly ranges from **$50 to $200**
 - Entire homes are often less available across the year than private rooms
 
----
-
-## 📽️ Video Walkthrough (Optional)
-
-[👉 Click here to watch the walkthrough]() *(Add your YouTube/LinkedIn video link here)*
 
 ---
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/yourprofile) or check out more projects!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vignesh-m-536642166/) or check out more projects!
