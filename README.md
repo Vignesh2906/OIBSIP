@@ -1,11 +1,11 @@
-# 🗽 NYC Airbnb Data Cleaning & Exploratory Data Analysis (EDA)
+# NYC Airbnb Data Cleaning & Exploratory Data Analysis (EDA)
 
 This project involves **data cleaning** and **exploratory data analysis** on the [New York City Airbnb Open Data (2019)](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data).  
 It was implemented using Python in Google Colab.
 
 ---
 
-## 📌 Objectives
+## Objectives
 
 - Clean and preprocess the raw Airbnb dataset
 - Remove null values, duplicates, and irrelevant features
@@ -14,7 +14,7 @@ It was implemented using Python in Google Colab.
 
 ---
 
-## 🧰 Tools & Libraries Used
+## Tools & Libraries Used
 
 - Python (Google Colab)
 - Pandas
@@ -24,15 +24,15 @@ It was implemented using Python in Google Colab.
 
 ---
 
-## 📂 Dataset Info
+## Dataset Info
 
-- 📊 **Source:** [Kaggle NYC Airbnb Dataset](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
-- 🧾 **Columns:** id, name, host_id, neighbourhood, room_type, price, minimum_nights, number_of_reviews, availability_365, etc.
-- 📌 **Size:** 49,000+ rows
+- **Source:** [Kaggle NYC Airbnb Dataset](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
+- **Columns:** id, name, host_id, neighbourhood, room_type, price, minimum_nights, number_of_reviews, availability_365, etc.
+- **Size:** 49,000+ rows
 
 ---
 
-## 🔧 Data Cleaning Steps
+## Data Cleaning Steps
 
 - Removed unnecessary columns (`id`, `host_id`, etc.)
 - Handled missing values and removed rows with `NaN`
@@ -42,7 +42,7 @@ It was implemented using Python in Google Colab.
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 Here are some of the questions we explored:
 
@@ -52,7 +52,7 @@ Here are some of the questions we explored:
 - How many days per year are listings usually available?
 - Are there any correlations between price, availability, and reviews?
 
-### 🔍 Visualizations Used:
+### Visualizations Used:
 
 - Count plots
 - Bar plots
@@ -64,7 +64,7 @@ _All plots are available in the notebook._
 
 ---
 
-## 📌 Key Insights
+## Key Insights
 
 - Most listings are **Entire home/apt**, followed by **Private rooms**
 - **Manhattan** and **Brooklyn** dominate the listings
@@ -74,6 +74,6 @@ _All plots are available in the notebook._
 
 ---
 
-## 📬 Contact
+## Contact
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vignesh-m-536642166/) or check out more projects!
